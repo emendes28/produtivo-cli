@@ -1,0 +1,20 @@
+{
+  "name": "powerfull-cli",
+  "version": "1.0.0",
+  "description": "====================\r __Esse projeto tem como intuito facilitar o dia a dia do dev eu principal objetivo e dar mais produtividade para focar no  rescimento / evolução da sua carreira e projeto__",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emendes28/produtivo-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emendes28/produtivo-cli/issues"
+  },
+  "homepage": "https://evandrosimendes.gitbook.io/produtivo-cli/"
+}
